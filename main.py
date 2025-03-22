@@ -1,6 +1,7 @@
 from core.auth import register, login
 from core.quiz import start_quiz
 
+
 if __name__ == "__main__":
     while True:
         action = input(
