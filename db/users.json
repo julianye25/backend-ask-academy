@@ -8,6 +8,14 @@
         {
             "username": "andres@mail.com",
             "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"
+        },
+        {
+            "username": "julian",
+            "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"
+        },
+        {
+            "username": "daniel",
+            "password": "8d6f3245be847d75357a9e4e9db22c8096b8d4e8f2d02f1f76bf39da77cfb2d6"
         }
     ]
 }
