@@ -10,10 +10,10 @@ if __name__ == "__main__":
             pwd = input("Contraseña: ")
             register(user, pwd)
 
-        # elif action == "i":
-        #     user = input("Nombre de usuario: ")
-        #     pwd = input("Contraseña: ")
-        #     login(user, pwd)
+        elif action == "i":
+            user = input("Nombre de usuario: ")
+            pwd = input("Contraseña: ")
+            login(user, pwd)
 
         elif action == "s":
             break
