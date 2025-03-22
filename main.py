@@ -1,4 +1,4 @@
-from core.auth import register
+from core.auth import register, login
 
 if __name__ == "__main__":
     while True:
